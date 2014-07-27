@@ -1,0 +1,21 @@
+---------------------------------------
+SwiftMember PHP-SDK
+---------------------------------------
+
+Language    : PHP
+Version     : 1.0.3
+Author      : Nick Zarnecki
+Date        : 7/26/14
+Description : This SDK provides full API functionality for integrating
+your customer software with SwiftMember.
+
+
+---------------------------------------
+PHP-SDK Prerequisites
+---------------------------------------
+
+This PHP-SDK requires PHP language version 5.2 or newer.
+You can obtain new version of PHP from www.php.net. YOu
+can have it on your choice of Operating System.
+
+In addition to that, PHP must be compiled with cURL lib support.
