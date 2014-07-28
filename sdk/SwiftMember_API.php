@@ -24,7 +24,7 @@
  */
 if ( ! class_exists ( 'SwiftMember_API' ) ) {
 
-    class SwiftMember {
+    class SwiftMember_API {
 
         /**
          * The client authentication key.
